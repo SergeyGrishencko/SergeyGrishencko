@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, my name is Sergey
+#### I am beginner Python Backend Developer
+At the moment, I have 4 months of development experience. I have participated in development projects:
+- Applications for creating projects and tasks;
+- Applications for tourists;
+- Applications for the university.
 
-<!--
-**SergeyGrishencko/SergeyGrishencko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The most important thing for me is constant learning and developing my skills.
 
-Here are some ideas to get you started:
+Skills: My development stack: Python/PostgreSQL/Fast API/SQLAlchemy/Pedantic/Docker/Redis/Celery 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
