@@ -7,7 +7,7 @@ At the moment, I have 4 months of development experience. I have participated in
 
 The most important thing for me is constant learning and developing my skills.
 
-Skills: My development stack: Python/PostgreSQL/Fast API/SQLAlchemy/Pedantic/Docker/Redis/Celery 
+Skills: My development stack: Python/Go/PostgreSQL/Fast API/SQLAlchemy/Pedantic/Docker/Redis/Celery 
 
 
 
