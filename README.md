@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sergey
-#### I am beginner Python Backend Developer
+#### I am beginner Python and GO Developer
 At the moment, I have 4 months of development experience. I have participated in development projects:
 - Applications for creating projects and tasks;
 - Applications for tourists;
